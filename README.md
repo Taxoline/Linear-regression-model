@@ -1,7 +1,7 @@
 # Linear-regression-model
 
 
-# 🏡 California Housing Price Predictor
+# 🏡 Housing Price Predictor
 
 A web-based dashboard built using **Plotly Dash** that predicts housing prices based on user inputs. This project uses a **Linear Regression model** trained on the California Housing dataset.
 
